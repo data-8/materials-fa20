@@ -7,6 +7,7 @@ test = {
         {
           'code': r"""
           >>> secret_word == "welcome"
+          True
           """,
           'hidden': False,
           'locked': False
