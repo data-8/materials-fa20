@@ -10,7 +10,7 @@ def check_ans(student_answer, value, message):
 def correct(student_ans, ans, message):
     path = os.getcwd() 
     #display feedback and return object if it's a student file
-    if path[-7::] == 'student':
+    if path[-7::] == 'student' or path[-9:-2] == "vitamin":
         if student_ans == ans:
             display(Markdown(message))
             return Markdown(message)
