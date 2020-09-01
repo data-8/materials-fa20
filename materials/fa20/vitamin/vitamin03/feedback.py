@@ -8,7 +8,7 @@ def check_ans(student_answer, value, message):
     return student_answer == value
 
 def correct(student_ans, ans, message):
-    path = os.getcwd() 
+    path = os.getcwd()
     #display feedback and return object if it's a student file
     if path[-7::] == 'student' or path[-9:-2] == "vitamin":
         if student_ans == ans:
@@ -16,7 +16,7 @@ def correct(student_ans, ans, message):
             return Markdown(message)
         else:
             print("Please assign your answer to the variable provided!")
-    else: 
+    else:
     #only display feedback if master file - test automatically returns object
         display(Markdown(message))
 
@@ -26,7 +26,6 @@ def array_in_array(student_answer, message):
     return type(student_answer[0]) == np.ndarray
 
 def in_array(student_answer, value, message):
-    if value in student_answer: 
+    if value in student_answer:
         display(Markdown(message))
     return value in student_answer
-
