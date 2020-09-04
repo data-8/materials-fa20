@@ -1,0 +1,15 @@
+{
+  "name": "Building Tables",
+  "endpoint": "cal/data8/fa20/vitamin05",
+  "src": [
+    "vitamin05.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
