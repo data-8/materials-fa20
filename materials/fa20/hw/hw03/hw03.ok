@@ -1,0 +1,15 @@
+{
+  "name": "Homework 3: Table Manipulation and Visualization",
+  "endpoint": "cal/data8/fa20/hw03",
+  "src": [
+    "hw03.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
