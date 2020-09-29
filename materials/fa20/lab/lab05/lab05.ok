@@ -1,0 +1,15 @@
+{
+  "name": "Simulations",
+  "endpoint": "cal/data8/fa20/lab05",
+  "src": [
+    "lab05.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
