@@ -1,0 +1,15 @@
+{
+  "name": "Sampling",
+  "endpoint": "cal/data8/fa20/vitamin15",
+  "src": [
+    "vitamin15.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
