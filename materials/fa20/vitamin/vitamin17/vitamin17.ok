@@ -1,0 +1,15 @@
+{
+  "name": "Comparing Distributions",
+  "endpoint": "cal/data8/fa20/vitamin17",
+  "src": [
+    "vitamin17.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
