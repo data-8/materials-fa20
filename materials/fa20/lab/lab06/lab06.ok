@@ -1,0 +1,15 @@
+{
+  "name": "Assessing Models: Examining the Therapeutic Touch",
+  "endpoint": "cal/data8/fa20/lab06",
+  "src": [
+    "lab06.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
