@@ -1,0 +1,15 @@
+{
+  "name": "Decisions and Uncertainty",
+  "endpoint": "cal/data8/fa20/vitamin18",
+  "src": [
+    "vitamin18.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
