@@ -1,0 +1,15 @@
+{
+  "name": "Homework 7: Testing Hypotheses",
+  "endpoint": "cal/data8/fa20/hw07",
+  "src": [
+    "hw07.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
