@@ -1,0 +1,15 @@
+{
+  "name": "A/B Testing",
+  "endpoint": "cal/data8/fa20/vitamin19",
+  "src": [
+    "vitamin19.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
