@@ -1,0 +1,15 @@
+{
+  "name": "Examples",
+  "endpoint": "cal/data8/fa20/vitamin21",
+  "src": [
+    "vitamin21.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
