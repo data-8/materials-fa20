@@ -1,0 +1,11 @@
+Age,Condition,Total,Deaths,CHD Deaths
+0-34,Diet,1367,3,0
+35-44,Diet,728,3,0
+45-54,Diet,767,14,4
+55-64,Diet,870,35,7
+65+,Diet,953,190,42
+0-34,Control,1337,7,1
+35-44,Control,731,4,1
+45-54,Control,816,16,4
+55-64,Control,896,33,12
+65+,Control,958,162,34

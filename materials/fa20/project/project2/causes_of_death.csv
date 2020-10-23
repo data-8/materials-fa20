@@ -1,0 +1,581 @@
+Year,Cause,Age Adjusted Death Rate
+2015,Heart Disease,168.5
+2015,Cancer,158.5
+2015,Stroke,37.6
+2015,Accidents,43.2
+2015,Influenza and Pneumonia,15.2
+2014,Heart Disease,167.0
+2014,Cancer,161.2
+2014,Stroke,36.5
+2014,Accidents,40.5
+2014,Influenza and Pneumonia,15.1
+2013,Heart Disease,169.8
+2013,Cancer,163.2
+2013,Stroke,36.2
+2013,Accidents,39.4
+2013,Influenza and Pneumonia,15.9
+2012,Heart Disease,170.5
+2012,Cancer,166.5
+2012,Stroke,36.9
+2012,Accidents,39.1
+2012,Influenza and Pneumonia,14.5
+2011,Heart Disease,173.7
+2011,Cancer,169.0
+2011,Stroke,37.9
+2011,Accidents,39.1
+2011,Influenza and Pneumonia,15.7
+2010,Heart Disease,179.1
+2010,Cancer,172.8
+2010,Stroke,39.1
+2010,Accidents,38.0
+2010,Influenza and Pneumonia,15.1
+2009,Heart Disease,182.8
+2009,Cancer,173.5
+2009,Stroke,39.6
+2009,Accidents,37.5
+2009,Influenza and Pneumonia,16.5
+2008,Heart Disease,192.1
+2008,Cancer,176.4
+2008,Stroke,42.1
+2008,Accidents,39.2
+2008,Influenza and Pneumonia,17.6
+2007,Heart Disease,196.1
+2007,Cancer,179.3
+2007,Stroke,43.5
+2007,Accidents,40.4
+2007,Influenza and Pneumonia,16.8
+2006,Heart Disease,205.5
+2006,Cancer,181.8
+2006,Stroke,44.8
+2006,Accidents,40.2
+2006,Influenza and Pneumonia,18.4
+2005,Heart Disease,216.8
+2005,Cancer,185.1
+2005,Stroke,48.0
+2005,Accidents,39.5
+2005,Influenza and Pneumonia,21.0
+2004,Heart Disease,221.6
+2004,Cancer,186.8
+2004,Stroke,51.2
+2004,Accidents,38.1
+2004,Influenza and Pneumonia,20.4
+2003,Heart Disease,236.3
+2003,Cancer,190.9
+2003,Stroke,54.6
+2003,Accidents,37.6
+2003,Influenza and Pneumonia,22.6
+2002,Heart Disease,244.6
+2002,Cancer,194.3
+2002,Stroke,57.2
+2002,Accidents,37.1
+2002,Influenza and Pneumonia,23.2
+2001,Heart Disease,249.5
+2001,Cancer,196.5
+2001,Stroke,58.4
+2001,Accidents,35.7
+2001,Influenza and Pneumonia,22.2
+2000,Heart Disease,257.6
+2000,Cancer,199.6
+2000,Stroke,60.9
+2000,Accidents,34.9
+2000,Influenza and Pneumonia,23.7
+1999,Heart Disease,266.5
+1999,Cancer,200.8
+1999,Stroke,61.6
+1999,Accidents,35.3
+1999,Influenza and Pneumonia,23.5
+1998,Heart Disease,272.4
+1998,Cancer,200.7
+1998,Stroke,59.4
+1998,Accidents,34.5
+1998,Influenza and Pneumonia,34.6
+1997,Heart Disease,280.4
+1997,Cancer,203.5
+1997,Stroke,61.2
+1997,Accidents,34.2
+1997,Influenza and Pneumonia,33.6
+1996,Heart Disease,288.3
+1996,Cancer,206.7
+1996,Stroke,62.6
+1996,Accidents,34.5
+1996,Influenza and Pneumonia,33.2
+1995,Heart Disease,296.3
+1995,Cancer,209.8
+1995,Stroke,63.3
+1995,Accidents,34.4
+1995,Influenza and Pneumonia,33.8
+1994,Heart Disease,299.7
+1994,Cancer,211.7
+1994,Stroke,62.8
+1994,Accidents,34.2
+1994,Influenza and Pneumonia,33.9
+1993,Heart Disease,309.9
+1993,Cancer,213.5
+1993,Stroke,62.9
+1993,Accidents,34.2
+1993,Influenza and Pneumonia,35.2
+1992,Heart Disease,306.1
+1992,Cancer,213.5
+1992,Stroke,61.6
+1992,Accidents,33.2
+1992,Influenza and Pneumonia,33.1
+1991,Heart Disease,313.8
+1991,Cancer,215.2
+1991,Stroke,63.1
+1991,Accidents,34.7
+1991,Influenza and Pneumonia,34.9
+1990,Heart Disease,321.8
+1990,Cancer,216.0
+1990,Stroke,65.5
+1990,Accidents,36.2
+1990,Influenza and Pneumonia,36.8
+1989,Heart Disease,332.0
+1989,Cancer,214.2
+1989,Stroke,67.1
+1989,Accidents,37.7
+1989,Influenza and Pneumonia,35.9
+1988,Heart Disease,352.5
+1988,Cancer,212.5
+1988,Stroke,70.8
+1988,Accidents,38.9
+1988,Influenza and Pneumonia,37.3
+1987,Heart Disease,355.9
+1987,Cancer,211.7
+1987,Stroke,71.8
+1987,Accidents,38.2
+1987,Influenza and Pneumonia,33.8
+1986,Heart Disease,365.1
+1986,Cancer,211.5
+1986,Stroke,73.3
+1986,Accidents,38.6
+1986,Influenza and Pneumonia,34.8
+1985,Heart Disease,375.0
+1985,Cancer,211.3
+1985,Stroke,76.6
+1985,Accidents,38.5
+1985,Influenza and Pneumonia,34.5
+1984,Heart Disease,378.8
+1984,Cancer,210.8
+1984,Stroke,78.9
+1984,Accidents,38.8
+1984,Influenza and Pneumonia,30.6
+1983,Heart Disease,388.9
+1983,Cancer,209.1
+1983,Stroke,81.4
+1983,Accidents,39.1
+1983,Influenza and Pneumonia,29.8
+1982,Heart Disease,389.0
+1982,Cancer,208.3
+1982,Stroke,84.4
+1982,Accidents,40.1
+1982,Influenza and Pneumonia,26.5
+1981,Heart Disease,397.0
+1981,Cancer,206.4
+1981,Stroke,89.7
+1981,Accidents,43.4
+1981,Influenza and Pneumonia,30.0
+1980,Heart Disease,412.1
+1980,Cancer,207.9
+1980,Stroke,96.4
+1980,Accidents,46.4
+1980,Influenza and Pneumonia,31.4
+1979,Heart Disease,401.6
+1979,Cancer,204.0
+1979,Stroke,97.3
+1979,Accidents,46.5
+1979,Influenza and Pneumonia,26.1
+1978,Heart Disease,409.9
+1978,Cancer,204.9
+1978,Stroke,103.7
+1978,Accidents,48.9
+1978,Influenza and Pneumonia,34.5
+1977,Heart Disease,413.7
+1977,Cancer,203.5
+1977,Stroke,110.4
+1977,Accidents,48.8
+1977,Influenza and Pneumonia,31.0
+1976,Heart Disease,426.9
+1976,Cancer,202.5
+1976,Stroke,117.4
+1976,Accidents,48.7
+1976,Influenza and Pneumonia,38.8
+1975,Heart Disease,431.2
+1975,Cancer,200.1
+1975,Stroke,123.5
+1975,Accidents,50.8
+1975,Influenza and Pneumonia,34.9
+1974,Heart Disease,458.8
+1974,Cancer,201.5
+1974,Stroke,136.8
+1974,Accidents,52.7
+1974,Influenza and Pneumonia,35.5
+1973,Heart Disease,482.0
+1973,Cancer,200.0
+1973,Stroke,145.2
+1973,Accidents,59.3
+1973,Influenza and Pneumonia,41.2
+1972,Heart Disease,490.2
+1972,Cancer,200.3
+1972,Stroke,147.3
+1972,Accidents,60.2
+1972,Influenza and Pneumonia,41.3
+1971,Heart Disease,492.9
+1971,Cancer,199.3
+1971,Stroke,147.6
+1971,Accidents,60.3
+1971,Influenza and Pneumonia,38.4
+1970,Heart Disease,492.7
+1970,Cancer,198.6
+1970,Stroke,147.7
+1970,Accidents,62.2
+1970,Influenza and Pneumonia,41.7
+1969,Heart Disease,516.8
+1969,Cancer,198.5
+1969,Stroke,155.4
+1969,Accidents,64.9
+1969,Influenza and Pneumonia,47.9
+1968,Heart Disease,531.0
+1968,Cancer,198.8
+1968,Stroke,162.5
+1968,Accidents,65.5
+1968,Influenza and Pneumonia,52.8
+1967,Heart Disease,524.7
+1967,Cancer,197.3
+1967,Stroke,159.3
+1967,Accidents,66.2
+1967,Influenza and Pneumonia,42.2
+1966,Heart Disease,541.2
+1966,Cancer,196.5
+1966,Stroke,165.8
+1966,Accidents,67.6
+1966,Influenza and Pneumonia,47.9
+1965,Heart Disease,542.5
+1965,Cancer,195.6
+1965,Stroke,166.4
+1965,Accidents,65.8
+1965,Influenza and Pneumonia,46.8
+1964,Heart Disease,543.3
+1964,Cancer,193.6
+1964,Stroke,167.0
+1964,Accidents,64.1
+1964,Influenza and Pneumonia,45.4
+1963,Heart Disease,563.4
+1963,Cancer,194.7
+1963,Stroke,173.9
+1963,Accidents,64.0
+1963,Influenza and Pneumonia,55.6
+1962,Heart Disease,556.9
+1962,Cancer,193.3
+1962,Stroke,174.0
+1962,Accidents,62.9
+1962,Influenza and Pneumonia,47.1
+1961,Heart Disease,545.3
+1961,Cancer,193.4
+1961,Stroke,173.1
+1961,Accidents,60.6
+1961,Influenza and Pneumonia,43.4
+1960,Heart Disease,559.0
+1960,Cancer,193.9
+1960,Stroke,177.9
+1960,Accidents,63.1
+1960,Influenza and Pneumonia,53.7
+1959,Heart Disease,552.1
+1959,Cancer,191.6
+1959,Stroke,179.0
+1959,Accidents,63.2
+1959,Influenza and Pneumonia,44.3
+1958,Heart Disease,563.6
+1958,Cancer,192.0
+1958,Stroke,183.0
+1958,Accidents,63.6
+1958,Influenza and Pneumonia,47.4
+1957,Heart Disease,568.5
+1957,Cancer,195.4
+1957,Stroke,183.0
+1957,Accidents,69.1
+1957,Influenza and Pneumonia,50.3
+1956,Heart Disease,560.6
+1956,Cancer,195.6
+1956,Stroke,177.4
+1956,Accidents,70.2
+1956,Influenza and Pneumonia,40.8
+1955,Heart Disease,556.7
+1955,Cancer,194.5
+1955,Stroke,177.3
+1955,Accidents,70.9
+1955,Influenza and Pneumonia,39.2
+1954,Heart Disease,544.6
+1954,Cancer,194.3
+1954,Stroke,173.4
+1954,Accidents,69.9
+1954,Influenza and Pneumonia,36.2
+1953,Heart Disease,570.1
+1953,Cancer,194.6
+1953,Stroke,179.2
+1953,Accidents,75.4
+1953,Influenza and Pneumonia,49.2
+1952,Heart Disease,568.8
+1952,Cancer,194.2
+1952,Stroke,180.2
+1952,Accidents,78.0
+1952,Influenza and Pneumonia,43.1
+1951,Heart Disease,577.9
+1951,Cancer,192.0
+1951,Stroke,181.4
+1951,Accidents,79.7
+1951,Influenza and Pneumonia,47.4
+1950,Heart Disease,588.8
+1950,Cancer,193.9
+1950,Stroke,180.7
+1950,Accidents,78.4
+1950,Influenza and Pneumonia,48.1
+1949,Heart Disease,581.0
+1949,Cancer,193.9
+1949,Stroke,176.2
+1949,Accidents,57.6
+1949,Influenza and Pneumonia,45.1
+1948,Heart Disease,549.0
+1948,Cancer,193.4
+1948,Stroke,157.4
+1948,Accidents,68.6
+1948,Influenza and Pneumonia,58.0
+1947,Heart Disease,552.5
+1947,Cancer,190.7
+1947,Stroke,161.3
+1947,Accidents,69.9
+1947,Influenza and Pneumonia,65.9
+1946,Heart Disease,527.7
+1946,Cancer,187.1
+1946,Stroke,158.8
+1946,Accidents,69.4
+1946,Influenza and Pneumonia,69.9
+1945,Heart Disease,533.2
+1945,Cancer,186.9
+1945,Stroke,166.7
+1945,Accidents,74.9
+1945,Influenza and Pneumonia,74.9
+1944,Heart Disease,541.1
+1944,Cancer,183.8
+1944,Stroke,164.4
+1944,Accidents,77.0
+1944,Influenza and Pneumonia,94.7
+1943,Heart Disease,567.5
+1943,Cancer,183.9
+1943,Stroke,173.3
+1943,Accidents,82.1
+1943,Influenza and Pneumonia,101.7
+1942,Heart Disease,531.7
+1942,Cancer,183.8
+1942,Stroke,166.8
+1942,Accidents,75.6
+1942,Influenza and Pneumonia,84.7
+1941,Heart Disease,537.9
+1941,Cancer,184.1
+1941,Stroke,169.4
+1941,Accidents,72.7
+1941,Influenza and Pneumonia,104.6
+1940,Heart Disease,558.5
+1940,Cancer,187.8
+1940,Stroke,177.2
+1940,Accidents,76.0
+1940,Influenza and Pneumonia,117.6
+1939,Heart Disease,534.5
+1939,Cancer,187.1
+1939,Stroke,173.2
+1939,Accidents,74.7
+1939,Influenza and Pneumonia,124.4
+1938,Heart Disease,528.9
+1938,Cancer,185.7
+1938,Stroke,171.4
+1938,Accidents,76.5
+1938,Influenza and Pneumonia,124.3
+1937,Heart Disease,538.8
+1937,Cancer,184.6
+1937,Stroke,176.6
+1937,Accidents,81.8
+1937,Influenza and Pneumonia,181.8
+1936,Heart Disease,546.2
+1936,Cancer,186.8
+1936,Stroke,189.8
+1936,Accidents,92.4
+1936,Influenza and Pneumonia,186.7
+1935,Heart Disease,506.8
+1935,Cancer,183.4
+1935,Stroke,181.2
+1935,Accidents,80.8
+1935,Influenza and Pneumonia,163.8
+1934,Heart Disease,502.9
+1934,Cancer,181.6
+1934,Stroke,184.5
+1934,Accidents,82.7
+1934,Influenza and Pneumonia,152.9
+1933,Heart Disease,483.8
+1933,Cancer,178.2
+1933,Stroke,185.0
+1933,Accidents,76.2
+1933,Influenza and Pneumonia,156.5
+1932,Heart Disease,482.8
+1932,Cancer,179.2
+1932,Stroke,194.4
+1932,Accidents,76.6
+1932,Influenza and Pneumonia,180.0
+1931,Heart Disease,459.6
+1931,Cancer,175.8
+1931,Stroke,195.0
+1931,Accidents,81.2
+1931,Influenza and Pneumonia,170.2
+1930,Heart Disease,467.9
+1930,Cancer,174.5
+1930,Stroke,203.9
+1930,Accidents,84.2
+1930,Influenza and Pneumonia,159.8
+1929,Heart Disease,476.2
+1929,Cancer,175.3
+1929,Stroke,213.3
+1929,Accidents,84.3
+1929,Influenza and Pneumonia,247.5
+1928,Heart Disease,478.9
+1928,Cancer,177.8
+1928,Stroke,223.4
+1928,Accidents,86.1
+1928,Influenza and Pneumonia,236.4
+1927,Heart Disease,448.8
+1927,Cancer,177.8
+1927,Stroke,216.3
+1927,Accidents,86.3
+1927,Influenza and Pneumonia,164.0
+1926,Heart Disease,465.7
+1926,Cancer,177.3
+1926,Stroke,228.2
+1926,Accidents,89.8
+1926,Influenza and Pneumonia,233.0
+1925,Heart Disease,433.8
+1925,Cancer,174.3
+1925,Stroke,227.9
+1925,Accidents,92.2
+1925,Influenza and Pneumonia,198.1
+1924,Heart Disease,410.5
+1924,Cancer,170.6
+1924,Stroke,246.4
+1924,Accidents,89.6
+1924,Influenza and Pneumonia,182.0
+1923,Heart Disease,410.3
+1923,Cancer,168.8
+1923,Stroke,245.6
+1923,Accidents,91.2
+1923,Influenza and Pneumonia,253.0
+1922,Heart Disease,392.1
+1922,Cancer,165.6
+1922,Stroke,238.9
+1922,Accidents,85.4
+1922,Influenza and Pneumonia,207.6
+1921,Heart Disease,366.2
+1921,Cancer,163.5
+1921,Stroke,230.1
+1921,Accidents,83.2
+1921,Influenza and Pneumonia,153.1
+1920,Heart Disease,375.0
+1920,Cancer,159.0
+1920,Stroke,238.5
+1920,Accidents,87.5
+1920,Influenza and Pneumonia,279.2
+1919,Heart Disease,335.7
+1919,Cancer,152.1
+1919,Stroke,225.6
+1919,Accidents,86.9
+1919,Influenza and Pneumonia,270.9
+1918,Heart Disease,366.2
+1918,Cancer,148.4
+1918,Stroke,228.0
+1918,Accidents,99.9
+1918,Influenza and Pneumonia,612.4
+1917,Heart Disease,377.9
+1917,Cancer,150.7
+1917,Stroke,238.2
+1917,Accidents,107.0
+1917,Influenza and Pneumonia,267.0
+1916,Heart Disease,373.3
+1916,Cancer,152.2
+1916,Stroke,235.7
+1916,Accidents,104.3
+1916,Influenza and Pneumonia,278.5
+1915,Heart Disease,361.5
+1915,Cancer,149.5
+1915,Stroke,234.5
+1915,Accidents,95.2
+1915,Influenza and Pneumonia,238.1
+1914,Heart Disease,346.4
+1914,Cancer,146.6
+1914,Stroke,231.3
+1914,Accidents,100.4
+1914,Influenza and Pneumonia,202.4
+1913,Heart Disease,337.9
+1913,Cancer,147.8
+1913,Stroke,226.9
+1913,Accidents,108.2
+1913,Influenza and Pneumonia,214.8
+1912,Heart Disease,346.0
+1912,Cancer,144.7
+1912,Stroke,228.7
+1912,Accidents,107.1
+1912,Influenza and Pneumonia,213.7
+1911,Heart Disease,341.8
+1911,Cancer,140.4
+1911,Stroke,230.2
+1911,Accidents,113.5
+1911,Influenza and Pneumonia,234.1
+1910,Heart Disease,345.1
+1910,Cancer,143.1
+1910,Stroke,238.5
+1910,Accidents,111.2
+1910,Influenza and Pneumonia,238.4
+1909,Heart Disease,329.2
+1909,Cancer,138.1
+1909,Stroke,237.5
+1909,Accidents,108.0
+1909,Influenza and Pneumonia,221.2
+1908,Heart Disease,328.6
+1908,Cancer,134.5
+1908,Stroke,239.0
+1908,Accidents,108.8
+1908,Influenza and Pneumonia,234.6
+1907,Heart Disease,356.5
+1907,Cancer,133.0
+1907,Stroke,261.8
+1907,Accidents,122.3
+1907,Influenza and Pneumonia,285.4
+1906,Heart Disease,325.5
+1906,Cancer,128.8
+1906,Stroke,245.9
+1906,Accidents,121.2
+1906,Influenza and Pneumonia,222.5
+1905,Heart Disease,327.8
+1905,Cancer,132.5
+1905,Stroke,247.3
+1905,Accidents,108.5
+1905,Influenza and Pneumonia,257.8
+1904,Heart Disease,331.5
+1904,Cancer,127.9
+1904,Stroke,255.2
+1904,Accidents,112.8
+1904,Influenza and Pneumonia,291.2
+1903,Heart Disease,304.5
+1903,Cancer,125.2
+1903,Stroke,244.6
+1903,Accidents,106.9
+1903,Influenza and Pneumonia,251.1
+1902,Heart Disease,285.2
+1902,Cancer,119.7
+1902,Stroke,237.8
+1902,Accidents,93.6
+1902,Influenza and Pneumonia,219.3
+1901,Heart Disease,272.6
+1901,Cancer,118.1
+1901,Stroke,243.6
+1901,Accidents,109.3
+1901,Influenza and Pneumonia,312.9
+1900,Heart Disease,265.4
+1900,Cancer,114.8
+1900,Stroke,244.2
+1900,Accidents,90.3
+1900,Influenza and Pneumonia,297.5
