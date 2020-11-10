@@ -1,0 +1,15 @@
+{
+  "name": "Regression",
+  "endpoint": "cal/data8/fa20/lab09",
+  "src": [
+    "lab09.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
