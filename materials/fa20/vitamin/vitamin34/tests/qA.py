@@ -30,7 +30,7 @@ test = {
         },
         {
           'code': r"""
-          >>> feedback.correct(answer_A, 3, "The residuals do not vary as much as the observed values of $y$. Thus, the SD of the fitted values should only be a fraction of (and thus, less than or equal to) the SD of the observed values of $y$. The SD of the residuals and the SD of y are only equal when r=0.)
+          >>> feedback.correct(answer_A, 3, "The residuals do not vary as much as the observed values of $y$. Thus, the SD of the fitted values should only be a fraction of, and thus less than or equal to, the SD of the observed values of $y$. The SD of the residuals and the SD of y are only equal when r=0.")
           <IPython.core.display.Markdown object>
           """,
           'hidden': False,
